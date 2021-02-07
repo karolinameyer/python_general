@@ -1,3 +1,5 @@
+# TO-DO - change into english
+
 from tic_tac_toe.TTT import KolkoIKrzyzyk
 #zapisywanie wyników do pliku
 with open('wyniki.txt', 'w') as plik:
