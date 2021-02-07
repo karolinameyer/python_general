@@ -20,4 +20,4 @@ class Solution:
                 sol += x[2*i+2] + x[2*i]
             elif l == "0":
                 continue
-        return sol[::-1]     #reverse the solution
+        return sol[::-1]     #reverse to receive the solution
